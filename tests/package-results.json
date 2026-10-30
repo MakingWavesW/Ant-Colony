@@ -1,0 +1,23 @@
+[
+  {
+    "target": "standalone",
+    "file": "UNDERROOT_Wild_Frontier_Standalone.zip",
+    "zipBytes": 84496,
+    "totalUncompressedBytes": 259021,
+    "sha256": "59ac2e0bf3d60947e7fc06f82a45cc1ebf7a901fcff47f0e88282a763b7be417"
+  },
+  {
+    "target": "playgama",
+    "file": "UNDERROOT_Wild_Frontier_Playgama.zip",
+    "zipBytes": 85457,
+    "totalUncompressedBytes": 261565,
+    "sha256": "1c1cd8e57739a194c99d99682a00091e0a78d1e89cc662fe4a157f5f362a4099"
+  },
+  {
+    "target": "youtube",
+    "file": "UNDERROOT_Wild_Frontier_YouTube_Playables.zip",
+    "zipBytes": 84987,
+    "totalUncompressedBytes": 260415,
+    "sha256": "63edca42a2ae8c3bc8d070d0e7806501c0a670e7107b368ea32652e25658f861"
+  }
+]

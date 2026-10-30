@@ -1,0 +1,39 @@
+{
+  "environment": "Node VM + simulated DOM + native Canvas (not browser FPS)",
+  "pass": [
+    "source backup unchanged",
+    "expanded world and three depots of five types",
+    "initial quantities, independent maximum and unique IDs",
+    "reachable disjoint depot positions",
+    "individual replacement and stale callback idempotency x100",
+    "player gathering animation completes and conserves cargo",
+    "player delivery and bounded overflow conserve resources",
+    "seeds independent from food inventory",
+    "priority reservations, actual worker harvest and home delivery",
+    "save/load preserves depot coordinates, amounts and orders",
+    "colony hatching, queen and chamber upgrades",
+    "underground walking respects solid earth",
+    "surface obstacles block attack lines",
+    "soldiers maintain distinct patrol positions",
+    "enemy windup, bounded pursuit and damage/defeat",
+    "save format under three MiB"
+  ],
+  "profiles": [
+    {
+      "ants": 10,
+      "simulationMsPerTick": 0.565
+    },
+    {
+      "ants": 25,
+      "simulationMsPerTick": 1.044
+    },
+    {
+      "ants": 50,
+      "simulationMsPerTick": 1.795
+    },
+    {
+      "ants": 100,
+      "simulationMsPerTick": 4.965
+    }
+  ]
+}

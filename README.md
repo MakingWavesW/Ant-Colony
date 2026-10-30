@@ -1,44 +1,14 @@
-# UNDERROOT — Ant Colony Chronicles
+# UNDERROOT — The Wild Frontier
 
-The **Phase 3: Smart Gathering & Priority Orders** HTML game prototype. The game is preserved unchanged; the original HTML is named `index.html` for easy local hosting.
+An upgrade of the existing Phase 3 ant colony simulator: a 5× surface area, renewable large depots, four biomes and landmarks, articulated predators, improved ant movement and separate platform adapters.
 
-## Run
+Open `index.html`, or run `python3 -m http.server 8000` and visit http://localhost:8000. Use the Standalone edition for offline play; it never simulates production ads. Existing colony progress is migrated on the same origin.
 
-1. Download or clone this repository.
-2. Open `index.html` in a modern browser, or start a local server from this folder:
-   ```sh
-   python3 -m http.server 8000
-   ```
-   On Windows, use `py -m http.server 8000` if needed.
-3. Visit <http://localhost:8000> and start the colony.
+- [Beginner run instructions and controls](README_BEGINNER.md)
+- [Implementation and executed tests](IMPLEMENTATION_AND_TEST_REPORT.md)
+- [Publishing and outstanding platform checks](PUBLISHING_GUIDE.md)
+- [Monetization tests](MONETIZATION_AND_TEST_REPORT.md)
 
-No npm install, build step, API keys, or external assets are required. Enable JavaScript and browser storage. Use the same browser and server address to resume saved progress.
+Build: `python3 build.py`. Verify: `node tests/run.cjs` (requires Node and `@napi-rs/canvas`). The game itself has no package dependencies. The uploaded game is retained unchanged in `original/phase3.html`; the maintained source is in `src/`.
 
-## Main gameplay
-
-- Grow a colony of workers and soldiers; upgrade the queen.
-- Explore the surface and switch into the underground nest.
-- Gather leaves, food, seeds, nectar, and soil.
-- Approach a resource as a worker to **GATHER** personally or **SEND WORKERS** on priority.
-- Carry resources home, follow priority trails, and cancel worker orders.
-- Build and upgrade nest chambers, complete missions, and defend against threats.
-- Use the minimap/full map, guided first delivery, and local saves.
-
-## Controls
-
-- **EXPLORE AS WORKER**: enter worker control; click/tap a destination to walk.
-- **WASD / arrow keys**: move; touch controls are also included.
-- **E**: contextual interaction while exploring; **HOME**: return home.
-- Drag to pan; mouse wheel to zoom.
-- **1 / 2**: switch surface/underground; **M**: world map; **Escape**: exit/close the active exploration or map view.
-- Use the Colony, Build, Army, Explore, and Missions tabs for management.
-
-## Files and status
-
-```text
-index.html                    Complete playable prototype: UI, art, sound, logic, saves
-docs/SETUP.md                 Source, asset audit, validation, and remaining checks
-docs/WILD_FRONTIER_PLAN.md    Future upgrade brief; not a list of shipped features
-```
-
-No missing local assets were found. Empty optional texture slots use the existing procedural drawing paths. JavaScript syntax checks passed; browser gameplay is not verified in this environment. Playgama, YouTube SDK integration, and rewarded ads described in the plan are future work, not included in this build. See [setup notes](docs/SETUP.md).
+Status: code-level checks and native Canvas render inspection; browser/mobile play-testing and live Playgama/YouTube certification are still outstanding. No live deployment or platform submission.

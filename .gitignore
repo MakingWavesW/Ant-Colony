@@ -1,6 +1,7 @@
-# Local tooling and generated packages
+dist/
 node_modules/
 __pycache__/
+tests/*.png
 *.pyc
 *.log
 *.zip

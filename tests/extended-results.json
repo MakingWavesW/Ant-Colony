@@ -1,0 +1,38 @@
+{
+  "pass": [
+    "All 15 depots reachable around real obstacles",
+    "Depot generation deterministic after restart",
+    "Each supply harvest conserves remaining stock and cargo",
+    "Desktop WASD moves explorer",
+    "Touch joystick moves explorer",
+    "Sprint spends stamina",
+    "Scene switching preserves explorer and valid nest entry",
+    "Surface return retains player control",
+    "Legacy colony values and queen preserved",
+    "Legacy snapshot backed up and depots migrate to 15",
+    "Migrated ants move to larger surface coordinates",
+    "All creature and biome Canvas render paths execute",
+    "Underground Canvas render executes",
+    "Terrain chunk cache stays bounded",
+    "standalone under 30 MiB",
+    "standalone isolated SDK",
+    "playgama under 30 MiB",
+    "playgama isolated SDK",
+    "youtube under 30 MiB",
+    "youtube isolated SDK"
+  ],
+  "packages": [
+    {
+      "target": "standalone",
+      "bytes": 241367
+    },
+    {
+      "target": "playgama",
+      "bytes": 243561
+    },
+    {
+      "target": "youtube",
+      "bytes": 242761
+    }
+  ]
+}
