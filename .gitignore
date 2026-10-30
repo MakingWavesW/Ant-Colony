@@ -1,0 +1,8 @@
+# Local tooling and generated packages
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.zip
+.DS_Store
+Thumbs.db
