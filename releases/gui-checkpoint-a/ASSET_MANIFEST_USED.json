@@ -1,0 +1,946 @@
+[
+  {
+    "source": "assets/original/Main Menu Background.png",
+    "source_dimensions": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "runtime": "assets/gui/menu-bg.webp",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "component": "menu",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/original/Main Menu.png",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/menu-frame.webp",
+    "dimensions": [
+      1000,
+      642
+    ],
+    "component": "menu",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/original/bottom navigation toolbar background for UNDERROOT.png",
+    "source_dimensions": [
+      1672,
+      941
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/dock.webp",
+    "dimensions": [
+      357,
+      180
+    ],
+    "component": "navigation",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/original/buttonart kit for UNDERROOT/9c14803b-6eb6-4019-8910-07f73203dbdc (1).png",
+    "source_dimensions": [
+      909,
+      291
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/button-gray.webp",
+    "dimensions": [
+      482,
+      160
+    ],
+    "component": "button",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/original/buttonart kit for UNDERROOT/9c14803b-6eb6-4019-8910-07f73203dbdc (2).png",
+    "source_dimensions": [
+      881,
+      278
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/button-brown.webp",
+    "dimensions": [
+      500,
+      160
+    ],
+    "component": "button",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/original/buttonart kit for UNDERROOT/9c14803b-6eb6-4019-8910-07f73203dbdc (3).png",
+    "source_dimensions": [
+      861,
+      278
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/button-red.webp",
+    "dimensions": [
+      500,
+      157
+    ],
+    "component": "button",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/original/buttonart kit for UNDERROOT/9c14803b-6eb6-4019-8910-07f73203dbdc (4).png",
+    "source_dimensions": [
+      889,
+      284
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/button-green.webp",
+    "dimensions": [
+      496,
+      160
+    ],
+    "component": "button",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Resource_HUD_Kit/UNDERROOT_HUD_Seeds.png",
+    "source_dimensions": [
+      900,
+      310
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/hud-seeds.webp",
+    "dimensions": [
+      306,
+      100
+    ],
+    "component": "HUD",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Resource_HUD_Kit/UNDERROOT_HUD_Resin.png",
+    "source_dimensions": [
+      900,
+      310
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/hud-resin.webp",
+    "dimensions": [
+      305,
+      100
+    ],
+    "component": "HUD",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Resource_HUD_Kit/UNDERROOT_HUD_Leaves.png",
+    "source_dimensions": [
+      900,
+      310
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/hud-leaves.webp",
+    "dimensions": [
+      320,
+      99
+    ],
+    "component": "HUD",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Resource_HUD_Kit/UNDERROOT_HUD_Nectar.png",
+    "source_dimensions": [
+      900,
+      310
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/hud-nectar.webp",
+    "dimensions": [
+      304,
+      100
+    ],
+    "component": "HUD",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Resource_HUD_Kit/UNDERROOT_HUD_Soil.png",
+    "source_dimensions": [
+      900,
+      310
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/hud-soil.webp",
+    "dimensions": [
+      311,
+      100
+    ],
+    "component": "HUD",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Resource_HUD_Kit/UNDERROOT_HUD_Food.png",
+    "source_dimensions": [
+      900,
+      310
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/hud-food.webp",
+    "dimensions": [
+      311,
+      100
+    ],
+    "component": "HUD",
+    "priority": "critical",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/home.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-home.webp",
+    "dimensions": [
+      60,
+      57
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/close.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-close.webp",
+    "dimensions": [
+      58,
+      50
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/underground.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-underground.webp",
+    "dimensions": [
+      61,
+      55
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/queen.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-queen.webp",
+    "dimensions": [
+      62,
+      57
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/food.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-food.webp",
+    "dimensions": [
+      60,
+      52
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/shield.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-shield.webp",
+    "dimensions": [
+      59,
+      58
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/soil.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-soil.webp",
+    "dimensions": [
+      59,
+      51
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/confirm.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-confirm.webp",
+    "dimensions": [
+      60,
+      53
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/unlock.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-unlock.webp",
+    "dimensions": [
+      56,
+      58
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/pause.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-pause.webp",
+    "dimensions": [
+      58,
+      55
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/leaves.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-leaves.webp",
+    "dimensions": [
+      59,
+      54
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/gift.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-gift.webp",
+    "dimensions": [
+      61,
+      54
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/health.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-health.webp",
+    "dimensions": [
+      58,
+      57
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/map.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-map.webp",
+    "dimensions": [
+      58,
+      54
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/sound.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-sound.webp",
+    "dimensions": [
+      58,
+      56
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/save.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-save.webp",
+    "dimensions": [
+      59,
+      52
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/upgrade.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-upgrade.webp",
+    "dimensions": [
+      58,
+      53
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/nursery.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-nursery.webp",
+    "dimensions": [
+      60,
+      52
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/workers.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-workers.webp",
+    "dimensions": [
+      60,
+      57
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/explore.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-explore.webp",
+    "dimensions": [
+      57,
+      58
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/back.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-back.webp",
+    "dimensions": [
+      58,
+      54
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/quests.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-quests.webp",
+    "dimensions": [
+      60,
+      53
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/inventory.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-inventory.webp",
+    "dimensions": [
+      58,
+      53
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/seeds.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-seeds.webp",
+    "dimensions": [
+      60,
+      50
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/nectar.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-nectar.webp",
+    "dimensions": [
+      58,
+      52
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/gather.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-gather.webp",
+    "dimensions": [
+      58,
+      60
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/lock.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-lock.webp",
+    "dimensions": [
+      59,
+      59
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/soldiers.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-soldiers.webp",
+    "dimensions": [
+      56,
+      59
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/resin.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-resin.webp",
+    "dimensions": [
+      60,
+      51
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/warning.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-warning.webp",
+    "dimensions": [
+      58,
+      56
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/settings.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-settings.webp",
+    "dimensions": [
+      59,
+      51
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/recruit.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-recruit.webp",
+    "dimensions": [
+      60,
+      56
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/music.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-music.webp",
+    "dimensions": [
+      58,
+      55
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/info.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-info.webp",
+    "dimensions": [
+      60,
+      56
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/attack.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-attack.webp",
+    "dimensions": [
+      59,
+      59
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Official_UI_Icon_Kit/UNDERROOT_Official_UI_Icons/64px/water.png",
+    "source_dimensions": [
+      64,
+      64
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/icon-water.webp",
+    "dimensions": [
+      58,
+      56
+    ],
+    "component": "icon",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Wooden_Back_Arrow.png",
+    "source_dimensions": [
+      299,
+      286
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_wooden_back_arrow.webp",
+    "dimensions": [
+      261,
+      248
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "packaged; not yet integrated"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Golden_Volume_Knob.png",
+    "source_dimensions": [
+      244,
+      161
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_golden_volume_knob.webp",
+    "dimensions": [
+      206,
+      123
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Loading_Progress_Track.png",
+    "source_dimensions": [
+      749,
+      218
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_loading_progress_track.webp",
+    "dimensions": [
+      700,
+      177
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Settings_Divider.png",
+    "source_dimensions": [
+      848,
+      181
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_settings_divider.webp",
+    "dimensions": [
+      700,
+      123
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "packaged; not yet integrated"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Leaf_Root_Corner_Decoration.png",
+    "source_dimensions": [
+      568,
+      506
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_leaf_root_corner_decoration.webp",
+    "dimensions": [
+      534,
+      467
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "packaged; not yet integrated"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Leaf_Toggle_Switch_Background.png",
+    "source_dimensions": [
+      422,
+      216
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_leaf_toggle_switch_background.webp",
+    "dimensions": [
+      383,
+      178
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "packaged; not yet integrated"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Volume_Slider_Track.png",
+    "source_dimensions": [
+      655,
+      175
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_volume_slider_track.webp",
+    "dimensions": [
+      617,
+      137
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Wooden_Close_Button.png",
+    "source_dimensions": [
+      350,
+      302
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_wooden_close_button.webp",
+    "dimensions": [
+      312,
+      263
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Loading_Bar_End_Ornament.png",
+    "source_dimensions": [
+      403,
+      193
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_loading_bar_end_ornament.webp",
+    "dimensions": [
+      364,
+      154
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Pause_Settings_Loading_Art_Kit/UNDERROOT_UI_Kit/UNDERROOT_Pause_Menu_Frame.png",
+    "source_dimensions": [
+      674,
+      734
+    ],
+    "alpha": true,
+    "runtime": "assets/gui/underroot_pause_menu_frame.webp",
+    "dimensions": [
+      635,
+      700
+    ],
+    "component": "settings/loading",
+    "priority": "secondary",
+    "usage_status": "referenced directly or by resource/icon naming template"
+  }
+]
