@@ -1,0 +1,668 @@
+{
+  "part3": [
+    {
+      "source": "assets/original/Rainbow Bonus Center Panel.png",
+      "runtime": "assets/frontier/bonus.webp",
+      "source_dimensions": [
+        1448,
+        1086
+      ],
+      "runtime_dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 204730,
+      "sha256": "f1cdf527068ac7123687a2b0e3320c48ec49498fb890ba97485262df5b6889f8",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/original/Death and Rebirth GUI Frame.png",
+      "runtime": "assets/frontier/rebirth.webp",
+      "source_dimensions": [
+        1448,
+        1086
+      ],
+      "runtime_dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 235186,
+      "sha256": "b4fe2dc9083ff30c17bb0c00c0d15863d6b2c2654da322b1b6f31f2b1864d6ca",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/original/Rainbow Reward Treasure Chest.png",
+      "runtime": "assets/frontier/treasure.webp",
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "runtime_dimensions": [
+        255,
+        256
+      ],
+      "bytes": 29636,
+      "sha256": "677f8d8fe10476e037231ceff39794aa207983a93a15f4447d81cbd8823d0924",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Rainbow_Chest_6_Frame_Kit/UNDERROOT_Chest_01_Closed.png",
+      "runtime": "assets/frontier/chest-1.webp",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "runtime_dimensions": [
+        256,
+        256
+      ],
+      "bytes": 28428,
+      "sha256": "b61bf57f943a2148e05019f1f05644e3114b7f3b436125fe7018bb64ca23b5f3",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Rainbow_Chest_6_Frame_Kit/UNDERROOT_Chest_02_Lock_Glow.png",
+      "runtime": "assets/frontier/chest-2.webp",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "runtime_dimensions": [
+        256,
+        256
+      ],
+      "bytes": 29346,
+      "sha256": "a903526c7e9b91b6554b5975da339e05e3d8393204c7734057a41ca98a253675",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Rainbow_Chest_6_Frame_Kit/UNDERROOT_Chest_03_Lid_Cracked.png",
+      "runtime": "assets/frontier/chest-3.webp",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "runtime_dimensions": [
+        256,
+        256
+      ],
+      "bytes": 29476,
+      "sha256": "b4d7dc47d4fc6d30e76f6ec458069c706ea66bac503e1730c769bfde8a1c0c6e",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Rainbow_Chest_6_Frame_Kit/UNDERROOT_Chest_04_Half_Open.png",
+      "runtime": "assets/frontier/chest-4.webp",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "runtime_dimensions": [
+        256,
+        256
+      ],
+      "bytes": 31740,
+      "sha256": "1f224cabfed979c9b4246483749134b0d0005587d00c66311d630a174dc60455",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Rainbow_Chest_6_Frame_Kit/UNDERROOT_Chest_05_Fully_Open_Rainbow.png",
+      "runtime": "assets/frontier/chest-5.webp",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "runtime_dimensions": [
+        256,
+        256
+      ],
+      "bytes": 30654,
+      "sha256": "f7fedf767ea8be0d841f55a904fb24011fe13347841c1c27ad1a0a0b5595cdd3",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Rainbow_Chest_6_Frame_Kit/UNDERROOT_Chest_06_Open_Soft_Glow.png",
+      "runtime": "assets/frontier/chest-6.webp",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "runtime_dimensions": [
+        256,
+        256
+      ],
+      "bytes": 29150,
+      "sha256": "ec704168b9002b39e1c25ac749e4610d3040a86cf4f94e38cb35002a1430b430",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_World_Map_Frame.png",
+      "runtime": "assets/frontier/map.webp",
+      "source_dimensions": [
+        1536,
+        576
+      ],
+      "runtime_dimensions": [
+        1536,
+        576
+      ],
+      "bytes": 179060,
+      "sha256": "9f61efe9862eb20ca2762bc7489ec350b142aa753f3304e386f4f720e0c97e2e",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Player_Explorer.png",
+      "runtime": "assets/frontier/marker-player-explorer.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2988,
+      "sha256": "ef047ae4af8ee9e73a484ae271ed1d0aca1ced50e87c5987c9409772fefc1861",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Nest.png",
+      "runtime": "assets/frontier/marker-nest.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2938,
+      "sha256": "016f4448e95247113423ebf578caa79daeedfa83ac110326539468d1b051a53c",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Food.png",
+      "runtime": "assets/frontier/marker-food.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2668,
+      "sha256": "0c8f95b58de5f60f95a3bc10a4d399d295ae8f652b9a326dd79fe1c5afc2e5dd",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Leaves.png",
+      "runtime": "assets/frontier/marker-leaves.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2592,
+      "sha256": "74e1b2faf54b2777a3ff1326ae4e610f8b07885264ba3ddb84625ff56f4e4f7c",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Seeds.png",
+      "runtime": "assets/frontier/marker-seeds.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2862,
+      "sha256": "5e05b7c743591d0c88d35669155bf7ca7278be536e15df3b49ca13bf3636af28",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Nectar.png",
+      "runtime": "assets/frontier/marker-nectar.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2858,
+      "sha256": "a27bf35747bc5230ef08d0637298a6a3434a353cfa00ea1f3ffb868ef9adda0f",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Soil.png",
+      "runtime": "assets/frontier/marker-soil.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2620,
+      "sha256": "31b51aabc5314fc755a35f8a7d3342bcdae2386e6e9b573aba52ce5c934374e2",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Enemy_Danger.png",
+      "runtime": "assets/frontier/marker-enemy-danger.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2778,
+      "sha256": "eb91ac205d733c25c190378ddbbdf07a83c2be3ae072dbd9c1948a4414dc104f",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Spider.png",
+      "runtime": "assets/frontier/marker-spider.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2508,
+      "sha256": "9e1181e2ced3d378bdad2c2d447e331e8f487db6aaf6da7f245f906f6e2d5487",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Beetle.png",
+      "runtime": "assets/frontier/marker-beetle.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2644,
+      "sha256": "eb79d9d4931d1cba6d95931862eee3d1c738f9f032f812f2c0e0ea13beab61d4",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Fire_Ant.png",
+      "runtime": "assets/frontier/marker-fire-ant.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2746,
+      "sha256": "775b6632e5897a6675504d80b25ca229b8863125a99875eb1903aad23f05e103",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Quest_Destination.png",
+      "runtime": "assets/frontier/marker-quest-destination.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2668,
+      "sha256": "027f1808e1d2b472b12b42952fbcf6c09a04deadedde042ab6e67e66915db6b0",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Discovered_Landmark.png",
+      "runtime": "assets/frontier/marker-discovered-landmark.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2618,
+      "sha256": "ab2a93464c33e4c6727a41068db73cca7ca2b35ef4dff998101559bee3a68376",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_World_Map_Frame_and_Markers/UNDERROOT_Map_Marker_Worker_Priority.png",
+      "runtime": "assets/frontier/marker-worker-priority.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 2798,
+      "sha256": "bc9a2747877c2c1cb1b103751a0d634bf81e9bc73a69079a7392972246c48783",
+      "anchor": [
+        0.5,
+        0.88
+      ],
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Patrol_Area_128.png",
+      "runtime": "assets/frontier/command-patrol-area.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3970,
+      "sha256": "13d37fb571d391b524c347a36946054a2d0b06e6b4ceb2bc3636fc113ffea734",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Defend_Nest_128.png",
+      "runtime": "assets/frontier/command-defend-nest.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3784,
+      "sha256": "945584452241fd456e42844b9fca62e9e1883d419f5a0b9115dcb5b8b663e5db",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Send_Workers_128.png",
+      "runtime": "assets/frontier/command-send-workers.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3624,
+      "sha256": "6f3ed251a4977ba7e6dc505f748b6998bd5f1b3995776c1f21b8cdb5afa83015",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Set_Priority_128.png",
+      "runtime": "assets/frontier/command-set-priority.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3600,
+      "sha256": "e1f753d25641c186ca9c60f9d61804baf9a193253f8cab6d8e462fc39ebf0905",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Return_to_Colony_128.png",
+      "runtime": "assets/frontier/command-return-to-colony.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3330,
+      "sha256": "dce9a3a03209a8f1c80a0a446c1491a33352646dd8ae3d656d0c9c09eae9f25e",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Follow_Player_128.png",
+      "runtime": "assets/frontier/command-follow-player.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3850,
+      "sha256": "58d6c460efd480d62f8d4ee82747bb8df8df55a1349472b018aec85db49ec6f0",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Gather_Resource_128.png",
+      "runtime": "assets/frontier/command-gather-resource.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3684,
+      "sha256": "d041219ea2ba9c5cf25b823c10778ca50e3555285eabdeafd97163d88a7e583b",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Retreat_128.png",
+      "runtime": "assets/frontier/command-retreat.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3546,
+      "sha256": "d48f4ee4b9d51bb5785b1bb5192f3091e64d6fa33fd8a594c01d74222d3cd88e",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Recruit_Soldiers_128.png",
+      "runtime": "assets/frontier/command-recruit-soldiers.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3888,
+      "sha256": "84fc9508ea38e0880c515ebac2a8c38c1d8031a352c4db49cf1a942f2940e3fd",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Attack_Target_128.png",
+      "runtime": "assets/frontier/command-attack-target.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3710,
+      "sha256": "294fe9f1515874436f4a0673402d0191628b889dd33bd0e582c692e3e2c692d0",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Army_Command_Icons_128px/UNDERROOT_Command_Cancel_Order_128.png",
+      "runtime": "assets/frontier/command-cancel-order.webp",
+      "source_dimensions": [
+        128,
+        128
+      ],
+      "runtime_dimensions": [
+        64,
+        64
+      ],
+      "bytes": 3958,
+      "sha256": "f93ec8ec3bb6e8aa4f3e8f5022d4d4eac7a69eb848279b95e31ce20d797b8454",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Enemy_Health_Frame.png",
+      "runtime": "assets/frontier/enemy-health-frame.webp",
+      "source_dimensions": [
+        1056,
+        212
+      ],
+      "runtime_dimensions": [
+        640,
+        128
+      ],
+      "bytes": 27296,
+      "sha256": "62841f06af978b7e617f9c40a09d72d7ecbe6f4b50f8b63563b16bb99fdcadc5",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Elite_Enemy_Frame.png",
+      "runtime": "assets/frontier/elite-enemy-frame.webp",
+      "source_dimensions": [
+        1056,
+        244
+      ],
+      "runtime_dimensions": [
+        640,
+        148
+      ],
+      "bytes": 29688,
+      "sha256": "7ee4607b94700bceffe865c705102b39f1fc9ef773a24dc8b046af76079b0fe9",
+      "integration": "reserved for explicit elite flag; baseline has ordinary/apex only"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Boss_Enemy_Frame.png",
+      "runtime": "assets/frontier/boss-enemy-frame.webp",
+      "source_dimensions": [
+        1280,
+        308
+      ],
+      "runtime_dimensions": [
+        640,
+        154
+      ],
+      "bytes": 33912,
+      "sha256": "7b166e3bc83a283d17a44fddcd6a2820cd219bd2aff734ca6566e0613da6b690",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Empty_Health_Track.png",
+      "runtime": "assets/frontier/empty-health-track.webp",
+      "source_dimensions": [
+        864,
+        100
+      ],
+      "runtime_dimensions": [
+        640,
+        74
+      ],
+      "bytes": 3134,
+      "sha256": "df88a09a508c70e827ad9bcf25dee60f16a4a7f94a2cf0418165d272fe196e49",
+      "integration": "active runtime presentation"
+    },
+    {
+      "source": "assets/nested/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Enemy_Health_Bar_Kit/UNDERROOT_Danger_Emblem.png",
+      "runtime": "assets/frontier/danger-emblem.webp",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "runtime_dimensions": [
+        160,
+        160
+      ],
+      "bytes": 12718,
+      "sha256": "3efba4c8ce24e7d4f02b4b96d68504c93d94914fbb5ea83f5bee3a62798a7ed3",
+      "integration": "reserved standalone emblem; boss frame includes its own ornament"
+    }
+  ],
+  "earlier": [
+    "ASSET_MANIFEST_USED.json",
+    "ASSET_MANIFEST_USED_B.json"
+  ],
+  "deduplicated": [
+    "Emerald-Encrusted Ornate Treasure Chest.png = Rainbow Reward Treasure Chest.png"
+  ],
+  "baseline_sha256": "0650751ff43ec7d4cd60526c214cfc1e38faad0c0f891d4c2682a7fe5eafdf2a"
+}

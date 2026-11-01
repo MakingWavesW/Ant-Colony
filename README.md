@@ -1,5 +1,18 @@
 # UNDERROOT — Ant Colony Chronicles
 
+## Latest release: Rainbow Frontier (Part 3)
+
+- [Standalone playable ZIP](releases/rainbow-frontier-final/UNDERROOT_FINAL_STANDALONE.zip)
+- [Playgama Sandbox candidate ZIP](releases/rainbow-frontier-final/UNDERROOT_FINAL_PLAYGAMA.zip)
+- [Release instructions](releases/rainbow-frontier-final/RELEASE_AND_UPLOAD_GUIDE.md)
+- [Gameplay and GUI tests](releases/rainbow-frontier-final/FINAL_RESPONSIVE_AND_REGRESSION_TESTS.md)
+- [Playgama integration and live-test gaps](releases/rainbow-frontier-final/PLAYGAMA_ADS_AND_LIFECYCLE_REPORT.md)
+- [Preserved Checkpoint B](releases/gui-checkpoint-b/UNDERROOT_GUI_CHECKPOINT_B.zip)
+
+Extract either package and serve its root folder with a static HTTP server. Real Playgama Sandbox ads/cloud/banners still require publisher-side validation; no live Playgama game was published or replaced. The repository-root `index.html` below remains the original prototype.
+
+## Original prototype
+
 The **Phase 3: Smart Gathering & Priority Orders** HTML game prototype. The game is preserved unchanged; the original HTML is named `index.html` for easy local hosting.
 
 ## Run

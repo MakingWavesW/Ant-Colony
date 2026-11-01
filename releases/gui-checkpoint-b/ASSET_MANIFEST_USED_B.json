@@ -1,0 +1,466 @@
+[
+  {
+    "source": "assets/original/Queen's Chamber management GUI.png",
+    "runtime": "assets/kingdom/queen.webp",
+    "source_dimensions": [
+      1448,
+      1086
+    ],
+    "runtime_dimensions": [
+      1100,
+      825
+    ],
+    "alpha": true,
+    "bytes": 243464,
+    "sha256": "319c1a7ee29b9f7f4f43212f133cf6cb2efc768dd47d153a3a7c34e759e55d15",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/original/Nursery Chamber Backgroung UI Frame.png",
+    "runtime": "assets/kingdom/nursery.webp",
+    "source_dimensions": [
+      1448,
+      1086
+    ],
+    "runtime_dimensions": [
+      1100,
+      817
+    ],
+    "alpha": true,
+    "bytes": 193994,
+    "sha256": "1ec942c3b37c1c578eccfdaedc884fc9bddbdf15f7b070e43a66be57fa144253",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/original/Chamber Upgrade UI.png",
+    "runtime": "assets/kingdom/upgrade.webp",
+    "source_dimensions": [
+      1448,
+      1086
+    ],
+    "runtime_dimensions": [
+      1100,
+      825
+    ],
+    "alpha": true,
+    "bytes": 273752,
+    "sha256": "b23d57a85512f67828753e8c9c9ed6c9ce1969f258430394dce06f195e46c57a",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/original/Adventure Quest Journal.png",
+    "runtime": "assets/kingdom/journal.webp",
+    "source_dimensions": [
+      1586,
+      992
+    ],
+    "runtime_dimensions": [
+      1100,
+      664
+    ],
+    "alpha": true,
+    "bytes": 163214,
+    "sha256": "546f98c4dc5d0fd11ce91435c0a6a8deaac8f01855f47bf97a64499bc09e7fb9",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/original/Quest Tracker HUD.png",
+    "runtime": "assets/kingdom/tracker.webp",
+    "source_dimensions": [
+      1536,
+      1024
+    ],
+    "runtime_dimensions": [
+      1100,
+      708
+    ],
+    "alpha": true,
+    "bytes": 82210,
+    "sha256": "754ea6de571942d9a012ed6c8e8978730ee54f581be093249ec85dfafed9c6f0",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/original/Nursery Egg Slot Pack/28536ca0-8aa5-4558-acbf-8a0d553077fc.png",
+    "runtime": "assets/kingdom/slot-empty.webp",
+    "source_dimensions": [
+      1254,
+      1254
+    ],
+    "runtime_dimensions": [
+      240,
+      239
+    ],
+    "alpha": true,
+    "bytes": 22142,
+    "sha256": "33526f1289341b30a396242d5e8511455a5785e6d3f20c46364c614c3b47c757",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/original/Nursery Egg Slot Pack/4d97aee2-47a2-48e1-8a0c-73d7a1dc47ee.png",
+    "runtime": "assets/kingdom/slot-incubating.webp",
+    "source_dimensions": [
+      1254,
+      1254
+    ],
+    "runtime_dimensions": [
+      240,
+      237
+    ],
+    "alpha": true,
+    "bytes": 21872,
+    "sha256": "78681ee6e6e244cd4b619dcba00097f360e4bf3a40332a75b3344c0e1a7a22f6",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/original/Nursery Egg Slot Pack/573c34d6-b583-4c6f-8158-3c2d63ed3d91.png",
+    "runtime": "assets/kingdom/slot-hatching.webp",
+    "source_dimensions": [
+      1254,
+      1254
+    ],
+    "runtime_dimensions": [
+      240,
+      240
+    ],
+    "alpha": true,
+    "bytes": 34752,
+    "sha256": "326c8f333bb1b1711e4886432155f71f3c3d50f63e6c1ba9611597ccd3513a61",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/original/Nursery Egg Slot Pack/ed1ef908-0bd8-4f4b-824d-7963c2f9fa62.png",
+    "runtime": "assets/kingdom/slot-available.webp",
+    "source_dimensions": [
+      1254,
+      1254
+    ],
+    "runtime_dimensions": [
+      240,
+      239
+    ],
+    "alpha": true,
+    "bytes": 26642,
+    "sha256": "811221802ecc2345125c61de4b6d6ab67b17bf1f3806465e35f72e9474345843",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/original/Nursery Egg Slot Pack/47df936b-cd98-4861-b686-01e331076e5a.png",
+    "runtime": "assets/kingdom/slot-locked.webp",
+    "source_dimensions": [
+      1254,
+      1254
+    ],
+    "runtime_dimensions": [
+      240,
+      238
+    ],
+    "alpha": true,
+    "bytes": 21730,
+    "sha256": "c3420c9559257be50b8eb139c97af48d75e62fbe1fabc628227217b0e30f1a17",
+    "usage": "Reserved; no artificial locked slots added to existing capacity model"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Breeding_Egg_Icons_256px/UNDERROOT_Worker_Egg_256.png",
+    "runtime": "assets/kingdom/egg-worker.webp",
+    "source_dimensions": [
+      256,
+      256
+    ],
+    "runtime_dimensions": [
+      104,
+      128
+    ],
+    "alpha": true,
+    "bytes": 7770,
+    "sha256": "e53ffb50c46e16e6efaf135163b5f4ac30f390ddd33625ac1a9fa9e5bb8970b2",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Breeding_Egg_Icons_256px/UNDERROOT_Soldier_Egg_256.png",
+    "runtime": "assets/kingdom/egg-soldier.webp",
+    "source_dimensions": [
+      256,
+      256
+    ],
+    "runtime_dimensions": [
+      113,
+      128
+    ],
+    "alpha": true,
+    "bytes": 8092,
+    "sha256": "186220856d21cdbaa4933653a701e79fd8a31617932437f2639711d67e062e7b",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Breeding_Egg_Icons_256px/UNDERROOT_Explorer_Egg_256.png",
+    "runtime": "assets/kingdom/egg-explorer.webp",
+    "source_dimensions": [
+      256,
+      256
+    ],
+    "runtime_dimensions": [
+      100,
+      128
+    ],
+    "alpha": true,
+    "bytes": 7530,
+    "sha256": "c940efcb63f1b92a9b830096f8213e89bf3f0b2782dbf8cce8faa558ca2d4278",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Worker_Soldier_Management_Panels/UNDERROOT_Worker_Management_Panel.png",
+    "runtime": "assets/kingdom/panel-worker.webp",
+    "source_dimensions": [
+      724,
+      1086
+    ],
+    "runtime_dimensions": [
+      550,
+      802
+    ],
+    "alpha": true,
+    "bytes": 150136,
+    "sha256": "f2647d17e1cfc8aadecc3037e553d2b6abf4fc3f0c50e7048a17fb4080b0a6e0",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Worker_Soldier_Management_Panels/UNDERROOT_Soldier_Management_Panel.png",
+    "runtime": "assets/kingdom/panel-soldier.webp",
+    "source_dimensions": [
+      724,
+      1086
+    ],
+    "runtime_dimensions": [
+      550,
+      808
+    ],
+    "alpha": true,
+    "bytes": 147004,
+    "sha256": "90b6c7f8e5461d5f875c9dba568935d0183ce174f22314ffd7257923186322af",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_10.png",
+    "runtime": "assets/kingdom/tier-10.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      84
+    ],
+    "alpha": true,
+    "bytes": 6124,
+    "sha256": "3c9485f4c1e5324d4f25c550946f523e6b3eab9e4e38be73d1c2f30e6f5d0a87",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_12.png",
+    "runtime": "assets/kingdom/tier-12.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      86
+    ],
+    "alpha": true,
+    "bytes": 6742,
+    "sha256": "4b5f7f83246435825ce76873e3a13cb31b71eefcde2aa9175e6138aae3475e74",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_05.png",
+    "runtime": "assets/kingdom/tier-05.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      85
+    ],
+    "alpha": true,
+    "bytes": 5608,
+    "sha256": "afc356daffc6e3120a1218b2928a31310f56cc20b174e42a2a0052a2afa90d39",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_08.png",
+    "runtime": "assets/kingdom/tier-08.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      84
+    ],
+    "alpha": true,
+    "bytes": 6402,
+    "sha256": "b4ca9ec99a6751f983b000ef9ca8ad5bb39e9cc827d9ac69c506a73416a43111",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_06.png",
+    "runtime": "assets/kingdom/tier-06.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      86
+    ],
+    "alpha": true,
+    "bytes": 5640,
+    "sha256": "29cf1f89c90dbc8c45b690fe85ba3a488b5caee3dbe33b2e744245b3f4850244",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_03.png",
+    "runtime": "assets/kingdom/tier-03.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      84
+    ],
+    "alpha": true,
+    "bytes": 5540,
+    "sha256": "3bd38165216be012d68091d1e2b920bce7676675bb344267d84464f8a401a6d6",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_04.png",
+    "runtime": "assets/kingdom/tier-04.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      84
+    ],
+    "alpha": true,
+    "bytes": 5502,
+    "sha256": "cacdee01485f2d59a02560391b69adab0a5d9e575c2c4aa367bf13a1df0b3a6c",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_11.png",
+    "runtime": "assets/kingdom/tier-11.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      89
+    ],
+    "alpha": true,
+    "bytes": 6504,
+    "sha256": "4f25b863e456b191689b569045f50311a2d8b0c04e75fd4846eb79a6f92c99d6",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_01.png",
+    "runtime": "assets/kingdom/tier-01.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      88
+    ],
+    "alpha": true,
+    "bytes": 5442,
+    "sha256": "59ab46242613fc85e0568fd94634259e2ef2df9b98ff2873adfaa0fcc51780f4",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_02.png",
+    "runtime": "assets/kingdom/tier-02.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      85
+    ],
+    "alpha": true,
+    "bytes": 5460,
+    "sha256": "51de7883522f53472fa5c0e49124539200bbbbe8a6ba52ea88b6761ba432c78d",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_09.png",
+    "runtime": "assets/kingdom/tier-09.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      86
+    ],
+    "alpha": true,
+    "bytes": 6078,
+    "sha256": "37dd149ec5fbb074359ed4ff5c10f37dfd148303539ba52396f49a13613de48d",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_12_Upgrade_Medallions/UNDERROOT_Upgrade_Tier_Medallions/96px/UNDERROOT_Tier_07.png",
+    "runtime": "assets/kingdom/tier-07.webp",
+    "source_dimensions": [
+      96,
+      96
+    ],
+    "runtime_dimensions": [
+      89,
+      80
+    ],
+    "alpha": true,
+    "bytes": 5374,
+    "sha256": "95100f88975a5a34638d402b60440ee878a1c82de5afaae90da9e0b3feb684f6",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Achievement_Medal_Kit/UNDERROOT_Achievement_Medals/UNDERROOT_Medal_Chamber_Upgrade_128.png",
+    "runtime": "assets/kingdom/medal-upgrade.webp",
+    "source_dimensions": [
+      128,
+      128
+    ],
+    "runtime_dimensions": [
+      99,
+      116
+    ],
+    "alpha": true,
+    "bytes": 8282,
+    "sha256": "330d18f33025aafc56b87d42b646ea07bce2292d747740b542f34311ba7c7c54",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  },
+  {
+    "source": "assets/nested/UNDERROOT_Achievement_Medal_Kit/UNDERROOT_Achievement_Medals/UNDERROOT_Medal_Quest_Complete_128.png",
+    "runtime": "assets/kingdom/medal-quest.webp",
+    "source_dimensions": [
+      128,
+      128
+    ],
+    "runtime_dimensions": [
+      103,
+      116
+    ],
+    "alpha": true,
+    "bytes": 8214,
+    "sha256": "f4c02c1e850dd46e90beb4cd15c739c5a0e93df6c36394a68d37ff469beb5b0c",
+    "usage": "Used in colony management, nursery, chamber tiers or adventure presentation"
+  }
+]
