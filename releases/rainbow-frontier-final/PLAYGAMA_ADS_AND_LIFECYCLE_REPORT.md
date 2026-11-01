@@ -1,3 +1,5 @@
+> **Platform-selection correction:** See [Playgama.ai ad verification](PLAYGAMA_AI_ADS_VERIFICATION.md). The dedicated build now explicitly selects the real Playgama adapter; the earlier localhost `mock` result is historical.
+
 # Playgama integration report
 
 ## Official API reviewed

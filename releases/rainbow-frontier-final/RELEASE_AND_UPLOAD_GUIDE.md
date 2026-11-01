@@ -1,3 +1,5 @@
+> **Platform-selection correction:** See [Playgama.ai ad verification](PLAYGAMA_AI_ADS_VERIFICATION.md). The dedicated build now explicitly selects the real Playgama adapter; the earlier localhost `mock` result is historical.
+
 # UNDERROOT — Rainbow Frontier release candidates
 
 Release date: 2026-11-01. Built from the completed Checkpoint B, not an older game. Keep CHECKPOINT_B_ROLLBACK.zip as rollback. No live Playgama publication was performed.
